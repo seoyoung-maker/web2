@@ -1,1 +1,1 @@
-# weoyoung-maker.github.io
+# seoyoung-maker.github.io
